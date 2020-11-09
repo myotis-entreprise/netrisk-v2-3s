@@ -1,3 +1,3 @@
 # NETRISK-3S
 
-Firmware et documentation de la Netrisk 3S.
+Documentation [ici](https://github.com/myotis-entreprise/netrisk-v2-3s/wiki)
